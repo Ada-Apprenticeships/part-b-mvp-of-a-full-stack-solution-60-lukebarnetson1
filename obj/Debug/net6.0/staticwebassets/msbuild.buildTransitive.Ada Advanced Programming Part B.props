@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ada Advanced Programming Part B.props" />
+</Project>
